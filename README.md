@@ -101,4 +101,4 @@ nohup python svm-ovr-tfidf.py >> logs/Reuters-SVM.log 2>&1&
 ```
 
 ## License 
-The usage is under the CC-BY-NC license and restricted to non-commercial research and educational purposes.
+The usage is under the [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/) and restricted to non-commercial research and educational purposes.
