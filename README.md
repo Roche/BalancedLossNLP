@@ -6,8 +6,8 @@ The Pytorch implementation for paper
 
 by Yi Huang, Buse Giledereli, Abdullatif Koksal, Arzucan Ozgur and Elif Ozkirimli.
 
-[[Paper (ACL Anthology)]](https://aclanthology.org/2021.emnlp-main.643/)
-[[Paper (arXiv)]](https://arxiv.org/abs/2109.04712)
+[[ACL Anthology]](https://aclanthology.org/2021.emnlp-main.643/)
+[[arXiv]](https://arxiv.org/abs/2109.04712)
 
 ## Datasets
 
