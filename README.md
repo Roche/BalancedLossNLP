@@ -2,7 +2,7 @@
 
 The Pytorch implementation for paper 
 
-"*Balancing Methods for Multi-label Text Classification with Long-Tailed Class Distribution*"
+"*Balancing Methods for Multi-label Text Classification with Long-Tailed Class Distribution*" (EMNLP 2021)
 
 by Yi Huang, Buse Giledereli, Abdullatif Koksal, Arzucan Ozgur and Elif Ozkirimli.
 
